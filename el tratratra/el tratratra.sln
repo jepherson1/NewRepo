@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "el tratratra", "el tratratra\el tratratra.csproj", "{0A12A01E-3747-4143-905B-C88245BD71DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "el tratratra.Client", "el tratratra.Client\el tratratra.Client.csproj", "{44A9FEF5-E4F7-4E38-BE99-051735CF69DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A12A01E-3747-4143-905B-C88245BD71DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A12A01E-3747-4143-905B-C88245BD71DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A12A01E-3747-4143-905B-C88245BD71DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A12A01E-3747-4143-905B-C88245BD71DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A9FEF5-E4F7-4E38-BE99-051735CF69DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A9FEF5-E4F7-4E38-BE99-051735CF69DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A9FEF5-E4F7-4E38-BE99-051735CF69DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A9FEF5-E4F7-4E38-BE99-051735CF69DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAA50754-8B9E-4741-8558-C8B2D848913C}
+	EndGlobalSection
+EndGlobal

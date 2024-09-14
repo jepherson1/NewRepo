@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trabajo de goku", "trabajo de goku\trabajo de goku\trabajo de goku.csproj", "{16BC339F-C1E2-49BE-B2D7-08F705F0AF8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trabajo de goku.Client", "trabajo de goku\trabajo de goku.Client\trabajo de goku.Client.csproj", "{B3DBB150-6D50-4FC0-BC4A-4FC95003AE84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16BC339F-C1E2-49BE-B2D7-08F705F0AF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BC339F-C1E2-49BE-B2D7-08F705F0AF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BC339F-C1E2-49BE-B2D7-08F705F0AF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BC339F-C1E2-49BE-B2D7-08F705F0AF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3DBB150-6D50-4FC0-BC4A-4FC95003AE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DBB150-6D50-4FC0-BC4A-4FC95003AE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DBB150-6D50-4FC0-BC4A-4FC95003AE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DBB150-6D50-4FC0-BC4A-4FC95003AE84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9350A8F-A760-4BDB-9184-817271B8A5E7}
+	EndGlobalSection
+EndGlobal

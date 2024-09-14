@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "esta vaina e seria", "esta vaina e seria\esta vaina e seria\esta vaina e seria.csproj", "{AB51B18A-DC28-45A2-8D13-3625B6CEE815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "esta vaina e seria.Client", "esta vaina e seria\esta vaina e seria.Client\esta vaina e seria.Client.csproj", "{5CBFE894-9D1F-4822-BA5B-2A51F948D457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB51B18A-DC28-45A2-8D13-3625B6CEE815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB51B18A-DC28-45A2-8D13-3625B6CEE815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB51B18A-DC28-45A2-8D13-3625B6CEE815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB51B18A-DC28-45A2-8D13-3625B6CEE815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CBFE894-9D1F-4822-BA5B-2A51F948D457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBFE894-9D1F-4822-BA5B-2A51F948D457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBFE894-9D1F-4822-BA5B-2A51F948D457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBFE894-9D1F-4822-BA5B-2A51F948D457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {896A3664-F4EF-43B7-AE86-38E85FD8FD16}
+	EndGlobalSection
+EndGlobal
